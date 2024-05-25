@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **react js, full stack web development**
 
-- 💬 Ask me about ** java,SQL,HTML,CSS, and JavaScript**
+- 💬 Ask me about ** java, SQL, HTML, CSS, and JavaScript**
 
 - 📫 How to reach me **tejaswarbheofficial@gmail.com**
 
