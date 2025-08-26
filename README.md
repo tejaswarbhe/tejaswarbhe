@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **tejaswarbheofficial@gmail.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/3d1yjkz49ggw8u1rp1nvj/resume_tejas_warbhe.pdf?rlkey=ox4474tkefwh3qtcy9dejft8p&st=9bm9lgob&dl=0](https://www.dropbox.com/scl/fi/3d1yjkz49ggw8u1rp1nvj/resume_tejas_warbhe.pdf?rlkey=ox4474tkefwh3qtcy9dejft8p&st=9bm9lgob&dl=0)
+- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/3d1yjkz49ggw8u1rp1nvj/resume_tejas_warbhe.pdf?rlkey=ox4474tkefwh3qtcy9dejft8p&st=9bm9lgob&dl=0](https://www.dropbox.com/scl/fi/y4utrcgapebgh481w1so1/Tejas-Resume.pdf?rlkey=dt6pznm5zq9dh3jzxeg85uu61&st=jgwbjud6&dl=0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
