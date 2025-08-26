@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Nike store](https://sneakerzone.netlify.app/)
 
-- 🌱 I’m currently learning **react js, full stack web development**
+- 🌱 I’m currently learning **Node.js, full stack web development**
 
 - 💬 Ask me about ** java, SQL, HTML, CSS, and JavaScript**
 
