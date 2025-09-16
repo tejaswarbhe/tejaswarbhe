@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node.js, MERN STACK**
 
-- 💬 Ask me about ** java, SQL, HTML, CSS, and JavaScript**
+- 💬 Ask me about **Java, SQL, HTML, CSS, and JavaScript**
 
 - 📫 How to reach me **tejaswarbheofficial@gmail.com**
 
