@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejaswarbhe&label=Profile%20views&color=0e75b6&style=flat" alt="tejaswarbhe" /> </p>
 
-- 🔭 I’m currently working on [Nike store](https://sneakerzone.netlify.app/)
+
 
 - 🌱 I’m currently learning **Node.js, MERN STACK**
 
@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **tejaswarbheofficial@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://www.dropbox.com/scl/fi/y4utrcgapebgh481w1so1/Tejas-Resume.pdf?rlkey=dt6pznm5zq9dh3jzxeg85uu61&st=jgwbjud6&dl=0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
